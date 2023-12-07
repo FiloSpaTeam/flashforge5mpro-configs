@@ -147,7 +147,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Overture PLA+"
+        "Flashforge - Overture PLA+"
     ],
     "filament_shrink": [
         "100%"
@@ -199,7 +199,7 @@
         "60"
     ],
     "inherits": "Flashforge Generic PLA",
-    "name": "Overture PLA+",
+    "name": "Flashforge - Overture PLA+",
     "nozzle_temperature": [
         "220"
     ],

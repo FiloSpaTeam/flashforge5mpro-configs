@@ -209,5 +209,5 @@
     "z_hop_types": [
         "Auto Lift"
     ],
-    "z_offset": "0.05"
+    "z_offset": "0"
 }
