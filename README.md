@@ -2,7 +2,7 @@
 
 Actually configs are literally an export of OrcaSlicer, just do `Import Configs` and you're ready to go.
 
-*Using OrcaSlicer 1.8.0-beta2 on GNU/Linux*
+*Using OrcaSlicer 1.8.1 on GNU/Linux*
 
 ## How choose the right one?
 
