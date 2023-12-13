@@ -7,6 +7,7 @@
     ],
     "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]",
     "best_object_pos": "0.5,0.5",
+    "change_extrusion_role_gcode": "",
     "change_filament_gcode": "",
     "cooling_tube_length": "5",
     "cooling_tube_retraction": "91.5",
@@ -37,7 +38,7 @@
     "host_type": "octoprint",
     "inherits": "Flashforge Adventurer 5M Pro 0.6 Nozzle",
     "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]",
-    "machine_end_gcode": "G1 E-3 F3600\nG0 X50 Y50 F30000\nG28\nM104 S0 ; turn off temperature\nM84    ; disble motors",
+    "machine_end_gcode": "G1 E-3 F3600\nG0 X50 Y50 F30000\nG28\nM104 S0 ; turn off temperature\nM84    ; disable motors",
     "machine_load_filament_time": "0",
     "machine_max_acceleration_e": [
         "5000",
@@ -107,8 +108,8 @@
         "0",
         "0"
     ],
-    "machine_pause_gcode": "",
-    "machine_start_gcode": "M190 S[bed_temperature_initial_layer_single]\nM104 S[nozzle_temperature_initial_layer]\nG90\nM83\nG1 Z5 F6000\nG1 E-1.5 F600\nG1 E12 F800\nG1 X85 Y110 Z0.25 F1200\nG1 X-110 E15 F2400\nG1 Y0 E4 F2400\nG1 X-109.6 F2400\nG1 Y110 E5 F2400\nG92 E0",
+    "machine_pause_gcode": "M25",
+    "machine_start_gcode": "M190 S[bed_temperature_initial_layer_single]\nM104 S[nozzle_temperature_initial_layer]\nG90\nM83\nG1 Z5 F6000\nG1 E-1.5 F800\nG1 X110 Y-110 F6000\nG1 E2 F800\nG1 Y-110 X55 Z0.25 F4800\nG1 X-55 E8 F2400\nG1 Y-109.6 F2400\nG1 X55 E5 F2400\nG1 Y-110 X55 Z0.45 F4800\nG1 X-55 E8 F2400\nG1 Y-109.6 F2400\nG1 X55 E5 F2400\nG92 E0",
     "machine_unload_filament_time": "0",
     "manual_filament_change": "0",
     "max_layer_height": [
@@ -173,7 +174,7 @@
         "1"
     ],
     "retraction_length": [
-        "1.2"
+        "0.8"
     ],
     "retraction_minimum_travel": [
         "1"
