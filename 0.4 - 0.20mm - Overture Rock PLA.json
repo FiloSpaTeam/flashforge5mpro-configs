@@ -14,7 +14,7 @@
     "brim_ears_detection_length": "1",
     "brim_ears_max_angle": "125",
     "brim_object_gap": "0.1",
-    "brim_type": "outer_and_inner",
+    "brim_type": "outer_only",
     "brim_width": "5",
     "compatible_printers": [
         "Flashforge Adventurer 5M Pro 0.4 Nozzle"
