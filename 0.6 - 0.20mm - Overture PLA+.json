@@ -213,7 +213,7 @@
     "wall_filament": "1",
     "wall_generator": "classic",
     "wall_infill_order": "inner wall/outer wall/infill",
-    "wall_loops": "3",
+    "wall_loops": "2",
     "wall_transition_angle": "10",
     "wall_transition_filter_deviation": "25%",
     "wall_transition_length": "100%",

@@ -6,7 +6,7 @@
         "0"
     ],
     "additional_cooling_fan_speed": [
-        "70"
+        "50"
     ],
     "chamber_temperature": [
         "0"
@@ -84,7 +84,7 @@
         "; filament end gcode\n"
     ],
     "filament_flow_ratio": [
-        "0.99"
+        "1.031"
     ],
     "filament_is_support": [
         "0"
@@ -147,7 +147,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "0.6 - Overture PLA+"
+        "0.4 - Overture Rock PLA"
     ],
     "filament_shrink": [
         "100%"
@@ -190,7 +190,7 @@
     ],
     "from": "",
     "full_fan_speed_layer": [
-        "4"
+        "5"
     ],
     "hot_plate_temp": [
         "60"
@@ -199,7 +199,7 @@
         "60"
     ],
     "inherits": "Flashforge Generic PLA",
-    "name": "0.6 - Overture PLA+",
+    "name": "0.4 - Overture Rock PLA",
     "nozzle_temperature": [
         "220"
     ],
