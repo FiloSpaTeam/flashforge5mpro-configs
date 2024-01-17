@@ -23,11 +23,12 @@ Actually configs are literally an export of OrcaSlicer, just do `Import Configs`
 
 **Process settings**
 
-- 0.4mm -> 0.08mm lh -> Overture PLA+
-- 0.4mm -> 0.12mm lh -> Overture PLA+
+- 0.4mm -> 0.08mm lh -> Overture PLA+ -> +Miniatures
+- 0.4mm -> 0.12mm lh -> Overture PLA+ -> +Miniatures
 - 0.4mm -> 0.20mm lh -> Overture PLA+
+- 0.4mm -> 0.20mm lh -> Overture PLA+ -> +Precision
 - 0.4mm -> 0.28mm lh -> Overture PLA+
 - 0.4mm -> 0.20mm lh -> Overture PLA Rock
-- 0.6mm -> 0.20mm lh -> Overture PLA+
-- 0.6mm -> 0.30mm lh -> Overture PLA+
+- 0.6mm -> 0.20mm lh -> Overture PLA+ / Silk
+- 0.6mm -> 0.30mm lh -> Overture PLA+ / Silk
 - 0.6mm -> 0.40mm lh -> Overture PLA+
