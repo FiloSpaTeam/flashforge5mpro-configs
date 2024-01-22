@@ -39,4 +39,3 @@ Actually configs are literally an export of OrcaSlicer, just do `Import Configs`
 
 - When not declared otherwise, open the top cover as default
 - Filaments like Overture Rock PLA, Overture Super PLA+ may require more attention and widther brim.
-- For the Super PLA+ close the top cover.
