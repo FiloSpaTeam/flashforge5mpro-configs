@@ -29,6 +29,14 @@ Actually configs are literally an export of OrcaSlicer, just do `Import Configs`
 - 0.4mm -> 0.20mm lh -> Overture PLA+ -> +Precision
 - 0.4mm -> 0.28mm lh -> Overture PLA+
 - 0.4mm -> 0.20mm lh -> Overture PLA Rock
+- 0.4mm -> 0.20mm lh -> Overture Super PLA+
 - 0.6mm -> 0.20mm lh -> Overture PLA+ / Silk
 - 0.6mm -> 0.30mm lh -> Overture PLA+ / Silk
 - 0.6mm -> 0.40mm lh -> Overture PLA+
+
+
+### Filament specs
+
+- When not declared otherwise, open the top cover as default
+- Filaments like Overture Rock PLA, Overture Super PLA+ may require more attention and widther brim.
+- For the Super PLA+ close the top cover.
