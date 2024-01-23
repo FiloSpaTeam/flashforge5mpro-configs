@@ -16,6 +16,7 @@ Actually configs are literally an export of OrcaSlicer, just do `Import Configs`
 **Filament**
 
 - Overture PLA+
+- Overture Super PLA+
 - Overture PLA Rock
 - Overture Silk PLA
 - Overture TPU
