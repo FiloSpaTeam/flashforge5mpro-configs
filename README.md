@@ -2,7 +2,9 @@
 
 Actually configs are literally an export of OrcaSlicer, just do `Import Configs` and you're ready to go.
 
-*Using OrcaSlicer 1.9.0 on GNU/Linux*
+*Using OrcaSlicer 2.0.0-dev on GNU/Linux with Wi-Fi support*
+
+https://github.com/UnitooTeam/OrcaSlicer
 
 
 ## What settings this config provides
@@ -25,6 +27,7 @@ Actually configs are literally an export of OrcaSlicer, just do `Import Configs`
 **Process settings**
 
 - 0.4mm -> 0.08mm lh -> Overture PLA+ -> +Miniatures
+- 0.4mm -> 0.12mm lh -> Overture PLA+
 - 0.4mm -> 0.12mm lh -> Overture PLA+ -> +Miniatures
 - 0.4mm -> 0.20mm lh -> Overture PLA+
 - 0.4mm -> 0.20mm lh -> Overture PLA+ -> +Precision
