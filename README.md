@@ -2,14 +2,13 @@
 
 Actually configs are literally an export of OrcaSlicer, just do `Import Configs` and you're ready to go.
 
-*Using OrcaSlicer 2.0.0-dev on GNU/Linux with Wi-Fi support* from (https://github.com/UnitooTeam/OrcaSlicer)[https://github.com/UnitooTeam/OrcaSlicer]
+*Using OrcaSlicer 2.0.0-dev on GNU/Linux with Wi-Fi support* from [https://github.com/UnitooTeam/OrcaSlicer](https://github.com/UnitooTeam/OrcaSlicer)
 
 
 ## What settings this config provides
 
-*DO ALWAYS THE AUTOMATIC LEVELING BEFORE PRINT*
+**DO ALWAYS THE AUTOMATIC LEVELING BEFORE PRINT**
 ############################################
-*DO ALWAYS THE AUTOMATIC LEVELING BEFORE PRINT*
 
 **Nozzle**
 
@@ -44,9 +43,8 @@ Actually configs are literally an export of OrcaSlicer, just do `Import Configs`
 - 0.6mm -> 0.30mm lh -> Overture PLA+ / Silk
 - 0.6mm -> 0.40mm lh -> Overture PLA+
 
-*DO ALWAYS THE AUTOMATIC LEVELING BEFORE PRINT*
+**DO ALWAYS THE AUTOMATIC LEVELING BEFORE PRINT**
 ############################################
-*DO ALWAYS THE AUTOMATIC LEVELING BEFORE PRINT*
 
 ### Filament specs
 
