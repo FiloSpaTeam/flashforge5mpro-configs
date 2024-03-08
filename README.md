@@ -54,4 +54,14 @@ Actually configs are literally an export of OrcaSlicer, just do `Import Configs`
 - Do not use the AUX fan, or, if you need it, do a test with a proper overhang stl stress test and set the AUX fan in the filament profile.
 - If you need more cooling just try to open the front door instead use the AUX fan.
 I tested that the AUX fan is so much strong and windy and tend to unstick long prints or
-strange materials like Rock or Wood PLA. 
+strange materials like Rock or Wood PLA.
+
+
+### Test setup
+
+*Fan speed test*
+
+- Set 1 perimeter
+- Set cooling as in photo `fan_speed_test_setup_1.png`
+- Insert this GCODE in the Layer Change section `M106 S{layer_z * 255 / 100} ;`
+- Use the provided model `fan_speed_test.stl` -> credits: https://www.printables.com/it/model/58001-ultimate-fan-speed-test
