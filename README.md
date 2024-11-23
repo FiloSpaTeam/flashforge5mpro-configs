@@ -2,7 +2,7 @@
 
 Actually configs are literally an export of OrcaSlicer, just do `Import Configs` and you're ready to go.
 
-*Using OrcaSlicer 2.0.0-dev on GNU/Linux with Wi-Fi support* from [https://github.com/UnitooTeam/OrcaSlicer](https://github.com/UnitooTeam/OrcaSlicer)
+*Using OrcaSlicer 2.2.0 on GNU/Linux
 
 
 ## What settings this config provides
@@ -12,6 +12,7 @@ Actually configs are literally an export of OrcaSlicer, just do `Import Configs`
 
 **Nozzle**
 
+- 0.25mm
 - 0.4mm
 - 0.6mm
 
@@ -23,6 +24,7 @@ Actually configs are literally an export of OrcaSlicer, just do `Import Configs`
 - Overture PLA Rock
 - Overture Silk PLA
 - Overture TPU
+- Amolen PLA Wood
 
 
 **Process settings**
@@ -56,6 +58,16 @@ Actually configs are literally an export of OrcaSlicer, just do `Import Configs`
 I tested that the AUX fan is so much strong and windy and tend to unstick long prints or
 strange materials like Rock or Wood PLA.
 
+*Amolen PLA Wood*
+
+- Close the door, open the top cover
+- Adjust a bit the flow but not too much and clean the nozzle always
+
+### Gcode
+
+Actually i'm providing a GCode that simulate the clean nozzle of a BambuLab using the same silicone brush. Before apply the nozzle, calculate adeguately the measurements of automatico bed level and bed max size of you plate or you will hit the brush :)
+
+Check the photos! 
 
 ### Test setup
 
