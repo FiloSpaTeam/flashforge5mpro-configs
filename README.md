@@ -65,7 +65,9 @@ strange materials like Rock or Wood PLA.
 
 ### Gcode
 
-Actually i'm providing a GCode that simulate the clean nozzle of a BambuLab using the same silicone brush. Before apply the nozzle, calculate adeguately the measurements of automatico bed level and bed max size of you plate or you will hit the brush :)
+Actually i'm providing a GCode that simulate the clean nozzle of a BambuLab using the same silicone brush. Before apply the nozzle, calculate adeguately the measurements for the automatic bed level positions and bed max size of you plate or you will hit the brush :)
+
+Just an hint: do automatic bed level cleaning very well the nozzle, and later mount the brush so you won't need another time (with the same nozzle/plate).
 
 Check the photos! 
 
