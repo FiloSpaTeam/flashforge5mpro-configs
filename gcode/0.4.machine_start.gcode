@@ -19,7 +19,9 @@ G1 Y-108.5 X100
 G1 Y-111 X100
 G1 Y-111 X80; end cleaning nozzle
 G1 Y-111 X111 Z7 F6000; safe bucket position
-G1 E20 F3000; push a little bit of filament 
+G1 E30 F3000; push a bit of filament
+G1 E-0.8 F4000; retract a bit
+G4 P2000; wait 2 seconds
 G1 Z3.2
 G1 F20000
 G1 Y-108.5 X80; start cleaning nozzle
@@ -38,10 +40,6 @@ G1 Y-108.5 X80; start cleaning nozzle
 G1 Y-108.5 X100
 G1 Y-111 X100
 G1 Y-111 X80; end cleaning nozzle
-G1 Y-111 X55 E-0.8 Z4 F6000; safe position
-G4 P2000; wait 1 seconds
-G1 Z3.2
-G1 F20000
 G1 Y-108.5 X80; start cleaning nozzle
 G1 Y-108.5 X100
 G1 Y-111 X100
